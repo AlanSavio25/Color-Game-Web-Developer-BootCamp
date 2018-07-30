@@ -1,0 +1,2 @@
+# Color-Game-Web-Developer-BootCamp
+This game is a fun game that tests your RGB value identifying skills. There are two modes -Easy and Hard. The Easy mode gives you 3 colours from which you have to pick one that matches the given rgb value.  The Hard mode does the same thing while giving you 3 extra colours to choose from which obviously makes it harder, especially if you know little about RGB values!
